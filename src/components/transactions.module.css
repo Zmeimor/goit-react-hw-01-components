@@ -1,0 +1,9 @@
+.transactions{
+display: block;
+    justify-content: center;
+    margin: 20px auto 20px 100px;
+}
+
+.item {
+border: 2px solid black;
+}

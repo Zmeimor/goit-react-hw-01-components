@@ -1,0 +1,40 @@
+.statistics {
+display: block;
+width: 540px;
+border: 2px solid black;
+margin-bottom: 10px;
+
+}
+.title {
+justify-content: center;
+text-align: center;
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    font-size: 22px;
+    background-color: aqua;
+    border: 2px solid black;
+
+}
+
+
+.label {
+margin-right: 5px;
+}
+
+.percentage {
+
+
+}
+
+.item {
+display: flex;
+border: 2px solid black;
+margin: 0;
+}
+
+.card {
+    
+}
