@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Zmeimor/goit-react-hw-01-components/static/css/main.043b1704.css",
-    "main.js": "/Zmeimor/goit-react-hw-01-components/static/js/main.e57f469a.js",
-    "index.html": "/Zmeimor/goit-react-hw-01-components/index.html",
-    "main.043b1704.css.map": "/Zmeimor/goit-react-hw-01-components/static/css/main.043b1704.css.map",
-    "main.e57f469a.js.map": "/Zmeimor/goit-react-hw-01-components/static/js/main.e57f469a.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.043b1704.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.e57f469a.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.043b1704.css.map": "/goit-react-hw-01-components/static/css/main.043b1704.css.map",
+    "main.e57f469a.js.map": "/goit-react-hw-01-components/static/js/main.e57f469a.js.map"
   },
   "entrypoints": [
     "static/css/main.043b1704.css",
