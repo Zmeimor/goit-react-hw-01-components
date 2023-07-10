@@ -1,20 +1,20 @@
 import React from 'react';
 
-import { Profile } from "./profile";
+import { Profile } from "./components/profil/profile";
 
-import { Statistics } from './statistics';
+import { Statistics } from './components/statistics/statistics';
 
-import { FriendList } from "./freindlist";
+import { FriendList } from "./components/frend/freindlist";
 
-import { TransactionHistory } from './tranzaction';
+import { TransactionHistory } from 'components/transact/tranzaction';
 
-import user from "./user.json";
+import user from "data/user.json";
 
-import data from "./data.json";
+import data from "data/data.json";
 
-import friends from "./friends.json";
+import friends from "data/friends.json";
 
-import transactions from "./transactions.json";
+import transactions from "data/transactions.json";
 
 
 // console.log(data[0])

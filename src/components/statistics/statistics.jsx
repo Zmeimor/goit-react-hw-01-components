@@ -1,6 +1,7 @@
 import React from 'react';
+// import PropTypes from "prop-types";
 
-import { StatList } from './statrendelement';
+import { StatList } from './StatList';
 
 import css from "./statistics.module.css";
 
@@ -12,5 +13,5 @@ export const Statistics = ({title, statsDate}) => {
   </section>);
 };
 
-  
-    
+// StatList.propTypes = {
+// }
