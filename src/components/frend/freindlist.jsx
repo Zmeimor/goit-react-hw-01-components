@@ -1,6 +1,6 @@
 import React from 'react';
 import css from "./friends.module.css"
-// import PropTypes from "prop-types";
+ import PropTypes from "prop-types";
 
 export const FriendList = ({ friends }) => {
     return (
@@ -15,5 +15,7 @@ export const FriendList = ({ friends }) => {
         </div>
         );
     };
-    // FriendList.propTypes = {
-    // }
+     FriendList.propTypes = {
+        avatar: PropTypes.string,
+    
+     }

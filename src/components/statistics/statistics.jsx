@@ -1,5 +1,5 @@
 import React from 'react';
-// import PropTypes from "prop-types";
+ import PropTypes from "prop-types";
 
 import { StatList } from './StatList';
 
@@ -13,5 +13,6 @@ export const Statistics = ({title, statsDate}) => {
   </section>);
 };
 
-// StatList.propTypes = {
-// }
+StatList.propTypes = {
+title: PropTypes.string,
+ }

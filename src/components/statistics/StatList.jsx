@@ -1,4 +1,4 @@
-// import PropTypes from "prop-types";
+import PropTypes from "prop-types";
 import React from 'react';
 import css from "./statistics.module.css";
 import { StatCard } from "./StatCard";
@@ -18,5 +18,8 @@ export const StatList = ({statsDate}) => {
     </ul>
   );
   };
-  // StatList.propTypes = {
-  // }
+  StatList.propTypes = {
+    label: PropTypes.string,
+    percentage: PropTypes.number,
+
+  }
