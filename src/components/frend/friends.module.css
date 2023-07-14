@@ -18,12 +18,12 @@ margin: 20px auto 20px 100px;
 
 .status{
 text-align: center;
-background-color: green;
+color: green;
 
 }
 .ofline {
     text-align: center;
-    background-color: red;
+    color: red;
 }
 .avatar{
 
